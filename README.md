@@ -1,16 +1,16 @@
-# contador_app
+# Contador App - Flutter
 
-A new Flutter project.
+Este repositório contém um aplicativo simples de contador, desenvolvido com **Dart** e **Flutter**, com o objetivo de demonstrar o uso de **StatefulWidget** e o gerenciamento de estado usando o método `setState()`.
 
-## Getting Started
+## Funcionalidades
+- Incrementa o contador ao pressionar o botão.
+- Exibe o número de vezes que o botão foi pressionado.
 
-This project is a starting point for a Flutter application.
+## Tecnologias
+- **Dart**
+- **Flutter**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como Executar
+1. Clone o repositório.
+2. Navegue até o diretório do projeto.
+3. Execute `flutter run` no terminal para iniciar o aplicativo.
